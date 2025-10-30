@@ -1,4 +1,3 @@
-# Codexia-Clinic-App
 # Codexia Clinic App 🏥
 
 Kurumsal görünüme sahip, modüler ve güvenli bir klinik yönetim sistemi.  
